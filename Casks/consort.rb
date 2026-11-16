@@ -2,8 +2,7 @@ cask "consort" do
   version "1.9.4"
   sha256 "e415e91a95bb21d6bb4e5dc8d0d580d32acce040cfdfdaf0a453b9a88ef96ab1"
 
-  url "https://downloads.consortaudio.com/consort/Consort-#{version}.dmg",
-      verified: "downloads.consortaudio.com/consort/"
+  url "https://downloads.consortaudio.com/consort/Consort-#{version}.dmg"
   name "Consort"
   desc "True stereo for any two speakers"
   homepage "https://consortaudio.com/"
