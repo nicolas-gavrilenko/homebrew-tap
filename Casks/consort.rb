@@ -1,6 +1,6 @@
 cask "consort" do
-  version "1.9.9"
-  sha256 "fb8cf5b201ea06fff343a8dcfa1d916ace47a1afe388e56f6d5f53d22408d915"
+  version "1.9.10"
+  sha256 "d4824265e6088a77db68efdc66bcff6e075f752ef68ae7754ee5e2ab8b5e323e"
 
   url "https://downloads.consortaudio.com/consort/Consort-#{version}.dmg"
   name "Consort"
